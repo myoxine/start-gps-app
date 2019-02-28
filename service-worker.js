@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/start-gps-app/precache-manifest.d0d3d0ea0e5ea01f2926e9d47670774d.js"
+  "/start-gps-app/precache-manifest.f289628cf34b9b44aa0228293fcb529e.js"
 );
 
 workbox.clientsClaim();
